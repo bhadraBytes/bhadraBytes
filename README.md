@@ -1,41 +1,72 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Yash Bhadra 👋
 
-## About Me
+## 
+W<br>e<br>b<br> <br>D<br>e<br>v<br>e<br>l<br>o<br>p<br>e<br>r<br> 
+F<br>r<br>o<br>n<br>t<br> <br>E<br>n<br>d<br> <br>D<br>e<br>v<br>e<br>l<br>o<br>p<br>e<br>r<br>
+U<br>I<br>/<br>U<br>X<br> <br>D<br>e<br>v<br>e<br>l<br>o<br>p<br>e<br>r<br>
+M<br>e<br>r<br>n<br> <br>S<br>t<br>a<br>c<br>k<br> <br>D<br>e<br>v<br>
+F<br>r<br>e<br>e<br>l<br>a<br>n<br>c<br>e<br>r<br>
 
-I'm a passionate developer with a love for creating innovative solutions. I enjoy working on challenging projects and constantly learning new technologies.
+A versatile Web Developer, FrontEnd Specialist, UI/UX Designer, and React Application enthusiast. Proficient in Front End Development with hands-on experience in the MERN stack. I've also contributed as a Web Developer for a local non-profit organization, specializing in single-page React applications.
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Technology or Skill]
-- 👯 I’m looking to collaborate on [Project Type]
-- 🤔 I’m looking for help with [Specific Problem or Project]
-- 💬 Ask me about [Topics you are knowledgeable about]
-- 📫 How to reach me: [Your Contact Information]
-- ⚡ Fun fact: [Something interesting about you]
+## 📫 Contact Me
+- **Email:** [BhadraBytesMail@proton.me](mailto:BhadraBytesMail@proton.me)
+- **GitHub:** [bhadraBytes](https://github.com/bhadraBytes)
 
-## Skills
+## 🔧 Skills
+- **Languages & Frameworks:** HTML, CSS, JavaScript, React, Next.js, Node.js, Express.js
+- **Databases:** MongoDB, Firebase
+- **CMS:** Sanity, Strapi
+- **Design:** Figma
+- **Learning:** Passport.js
 
-- **Languages:** Python, JavaScript, HTML, CSS, etc.
-- **Frameworks:** React, Node.js, Django, etc.
-- **Tools:** Git, Docker, VS Code, etc.
+## 🌐 Portfolio
+Check out my portfolio [here](https://bhadrabytes.vercel.app/). 
 
-## Projects
+## 🚀 Projects
 
-Here are some of my notable projects:
+### [BhadraBytes Collection Part 2](https://bhadrabytescollection.vercel.app/login)
+**Description:** Created a Mern Stack Ecommerce Project with Admin Dashboard.  
+**Admin Details:** admin@gmail.com, Password Admin1234
 
-- [Project 1](link-to-project-1): Description of project 1.
-- [Project 2](link-to-project-2): Description of project 2.
-- [Project 3](link-to-project-3): Description of project 3.
+### [Chat Application](https://bhadrabytes.vercel.app/work)
+**Description:** A real-time chat application using the MERN stack.
 
-## Connect with Me
+### [BhadraBytes Spotify](https://bhadrabytes-spotifyclone.netlify.app/)
+**Description:** A responsive music website built with React and integrated with the Shazam Core API.
 
-- [LinkedIn](link-to-linkedin)
-- [Twitter](link-to-twitter)
-- [Personal Website/Blog](link-to-website)
+### [BhadraBytes Collection](https://bhadra-bytes-collection.vercel.app/)
+**Description:** Next.js E-commerce Website fully functional, used Sanity for backend and Stripe for payment.
 
-## GitHub Stats
+## 🌐 Connect with Me
+- [Instagram](https://www.instagram.com/_yash_bhadra_/)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+## 📊 GitHub Stats
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhadraBytes&show_icons=true&theme=radical)
 
-## Top Languages
+## 🔝 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhadraBytes&layout=compact&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)
+## 💬 Let's Collaborate!
+I'm open to exciting projects and collaborations. If you have an interesting idea or project, feel free to reach out!
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Gif" width="500"/>
+</p>
+
+---
+
+<div align="center">
+  <h3>Check out my portfolio!</h3>
+  <a href="https://bhadrabytes.vercel.app/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge" alt="Portfolio Badge"/>
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" alt="Thank You Gif" width="200"/>
+</p>
