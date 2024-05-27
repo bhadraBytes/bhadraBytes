@@ -143,7 +143,7 @@ Check out my portfolio [here](https://bhadrabytes.vercel.app/).
   <a href="mailto:BhadraBytesMail@proton.me">
     <img src="https://img.shields.io/badge/Email-BhadraBytesMail@proton.me-brightgreen?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/yash-bhadra/">
+  <a href="https://www.linkedin.com/in/yash-bhadra-533379310/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
