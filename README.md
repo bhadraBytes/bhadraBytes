@@ -18,11 +18,11 @@ A versatile Web Developer, FrontEnd Specialist, UI/UX Designer, and React Applic
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,figma&perline=5" />
 </div>
 
-- **Languages & Frameworks:** HTML, CSS, JavaScript, React, Next.js, Node.js, Express.js
+- **Languages & Frameworks:** Python, JavaScript, React, Next.js, Node.js, Express.js, Passport.js
 - **Databases:** MongoDB, Firebase
 - **CMS:** Sanity, Strapi
 - **Design:** Figma
-- **Learning:** Passport.js
+- **Exploring:** Power BI
 
 ---
 
